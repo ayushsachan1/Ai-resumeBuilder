@@ -60,7 +60,7 @@ To run this project locally, you would typically follow these steps:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/ai-resume-builder.git
+    https://github.com/ayushsachan1/Ai-resumeBuilder.git
     cd ai-resume-builder
     ```
 2.  **Install dependencies**:
